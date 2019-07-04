@@ -1,0 +1,29 @@
+*{
+	margin: 0px;
+}
+
+body {
+    background-image: url(../img/cr.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 450px;
+    margin: 10%;
+}
+
+.login-section h3 {
+
+    text-align: center;
+    color: #000;
+
+}
+
+.from-control {
+
+    width: 100%;
+    padding: 10px 10px;
+    margin: 10px;
+
+}

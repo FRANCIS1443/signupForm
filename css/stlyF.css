@@ -1,0 +1,72 @@
+*{
+	margin: 0px;
+}
+
+body {
+    background-image: url(../img/for.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 450px;
+    margin: 20%;
+    background-color: #080a3300;
+}
+.login-section {
+    color: #0081ff;
+    background-color: #3d4bde33;
+    padding-left: 40px;
+}
+
+.login-section h3 {
+
+    text-align: center;
+    color: #000;
+
+}
+
+.login-section p {
+
+    
+
+}
+
+
+
+.from-control {
+
+    width: 80%;
+    padding: 11px 12px;
+    margin: 10px;
+
+}
+
+
+.btn {
+
+    background-color: #0066ffe6;
+    padding: 10px 20px;
+    margin: 0 auto;
+    display: block;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
